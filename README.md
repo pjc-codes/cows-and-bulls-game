@@ -1,6 +1,10 @@
 # Cows and Bulls Game
 
-* A simple python code for the cows and bulls guessing game (takes into account repeated digits).
+* Python codes for the cows and bulls guessing game
+  
+  1. includes a code for the game in which the digits are unique and non-repeating (the more straightforward logic)
+  2. includes a code for the game in which the digits can be unique or repeating (the more tricky logic)
+  
 
 * The objective is to guess a randomly generated 4 digit number based on feedback received for guesses.
 
