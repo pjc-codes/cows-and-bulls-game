@@ -1,6 +1,6 @@
 # Cows and Bulls Game
 
-* A simple python code for the cows and bulls guessing game.
+* A simple python code for the cows and bulls guessing game (takes into account repeated digits).
 
 * The objective is to guess a randomly generated 4 digit number based on feedback received for guesses.
 
